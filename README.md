@@ -1,3 +1,3 @@
-# angular-qxqq5q
+# Angular tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-qxqq5q)
+https://angular.io/docs
